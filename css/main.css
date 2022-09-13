@@ -1,0 +1,427 @@
+@font-face {
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 600;
+    src: local(''),
+         url('../fonts/livvic-v13-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/livvic-v13-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  /* livvic-700 - latin */
+  @font-face {
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+         url('../fonts/livvic-v13-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/livvic-v13-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  } 
+  .container{
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  body{
+    font-family: "Livvic", sans-serif;
+    font-weight: 600;
+  }
+  .header-site{
+    background: #014E56;
+
+  }
+  .header-container{
+    display: flex;
+    align-items: center;
+  justify-content:space-between ;
+    
+  }
+  .navbar-list{
+    margin-right: 550px;
+  }
+  
+
+
+
+
+a{
+    text-decoration: none;
+}
+.header-img{
+    vertical-align: middle;
+}
+.navbar
+{
+    display: inline-block;
+}
+.section-hero{
+   
+}
+.hero .container{
+    display: flex;
+    align-items: center;
+  justify-content:space-between ;
+    
+}
+
+.text-wrapper{
+    display: inline-block;
+    width: 300px;
+}
+.title{
+    font-family: 'Livvic',sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 100px;
+/* or 100% */
+color: #FFFFFF;
+}
+
+
+.list{
+    display: inline-block;
+    margin-right: 30px;
+}
+.section-p{
+    display: inline-block;
+   
+    
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+color: #FFFFFF;
+}
+.title{
+    display: inline-block;
+    width: 700px;
+
+}
+.section-div{
+    display: inline-block;
+    width: 700px;
+}
+.btn{
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height, or 156% */
+    
+    border-radius: 24px;
+    width: 93px;
+    height: 30px;
+    padding: 11px 30px;
+    text-align: center;
+
+}
+.btn-contact{
+    background-color: #014E56;
+   
+    border: 2px solid #FFFFFF;
+
+color: #ffffff;
+}
+a{
+    list-style-type: none;
+    color: #ffffff;
+    }
+
+
+
+.section-built{
+    background: #012F34;
+
+}
+.built-container{
+      display: flex;
+align-items: center;
+justify-content:space-between ;}
+
+
+
+body{
+    background-color: #014E56;;
+}
+.sectoin-built-div{
+    width: 445px;
+}
+
+
+
+
+.section-span{
+    background: #F67E7E;
+   display: inline-block;
+    
+    width:50px ;
+    height: 4px;
+   
+
+}
+.section-title2{
+    font-family: 'Livvic';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* or 100% */
+
+
+color: #FFFFFF;
+}
+.section-list{
+    list-style-type: none;
+}
+.section-title3{
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height, or 156% */
+    
+    
+    color: #F67E7E;
+}
+.succes{
+    color: 
+    #79C8C7;
+
+
+}
+.section-word{
+    font-family: 'Livvic';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 25px;
+/* or 167% */
+
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.8;
+
+}
+.section-item-div{
+    width: 600px;
+    display: inline-block;
+}
+.sectoin-built-div{
+   display: inline-block;
+   vertical-align: top;
+}
+.section-list{
+    display: inline-block;
+
+}
+.section-deliver-div{
+    display: block;
+    text-align: center;
+    width: 100;
+    height: 50;
+}
+
+
+
+
+
+
+
+
+
+
+
+.section-deliver{
+    background: #004047;
+}
+.section-deliver-span{
+    background: #C4FFFE;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+width: 100px;
+height: 4px;
+display: block;
+
+}
+.oraliq{
+    background-color: black;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+width: 100px;
+height: 4px;
+display:block;
+
+}
+.section-title2{
+    width: 932px;
+    height: 96px;
+    margin-bottom: 92px;
+}
+.section-deliver-unorder{
+    list-style-type: none;
+}
+.list-p{
+    font-family: 'Livvic';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 25px;
+/* or 167% */
+
+text-align: center;
+width: 350px;
+
+color: #FFFFFF;
+}
+.list-title4
+{
+    font-family: 'Livvic';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+text-align: center;
+
+color: #79C8C7;
+}
+.list-word-p{
+    font-family: 'Livvic';
+font-style: italic;
+font-weight: 500;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+text-align: center;
+
+color:
+ #FFFFFF;
+}
+.unorder-list{
+   text-align: center;
+   display: inline-block;
+   width: 350px;
+   
+   
+    
+}
+.unorder-list:not(:last-child){
+    margin-right: 30px;
+}
+.deliver-div{
+    width: 400px;
+  display: inline-block;
+}
+.list-p{
+  vertical-align: top;
+
+}
+.list-title4{
+    display: block;
+}
+.list-word-p{
+    display: block;
+}
+
+
+
+.avatar-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #F67E7E;
+    margin-bottom: 40px;
+
+}
+.avatar-title{
+    font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* identical to box height, or 100% */
+
+
+color: #012F34;
+}
+.avatar-btn{
+    border: 2px solid #012F34;
+    color: #000;
+}
+ul{
+    list-style: none;
+
+}
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+   
+
+}
+.footer-wrap{
+   
+    width: 150px;
+  margin-right: 125px;
+
+}
+.footer-list
+{
+    display: flex;
+}
+.footer-item{
+    margin-right: 40px;
+    font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+
+color: #FFFFFF;
+}
+
+
+    
+
+address{
+   width: 225px;
+   font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 25px;
+/* or 167% */
+
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.6;
+ 
+    margin-right: 125px;
+}
+.footer-wrap2>p{
+    font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 25px;
+/* identical to box height, or 167% */
+
+text-align: right;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.6;
+
+}
+
+
+
